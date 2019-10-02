@@ -1,0 +1,1 @@
+# MobileSDKPodSpecs_Test
